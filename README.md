@@ -13,5 +13,5 @@ This project is a simple Flask web application for managing tasks. Users can add
 1. Clone the repository:
    ```bash
    pip install Flask
-   git clone https://github.com/Stefanos-gif/Flask-Web-Application
+   git clone https://github.com/Stefanos-gif/Flask-Web-Application.git
    cd flask-web-application
